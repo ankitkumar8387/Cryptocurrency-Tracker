@@ -1,0 +1,26 @@
+/* Write your CSS code here */
+.usd {
+  color: #ffffff;
+}
+.euro {
+  color: #ffffff;
+  margin-right: 20px;
+}
+.coin-type {
+  color: #ffffff;
+  margin-left: 20px;
+}
+.table-form {
+  display: flex;
+  justify-content: space-between;
+  background-color: #092e33;
+}
+.currency {
+  display: flex;
+}
+.cryptocurrencyItem {
+  border: 2px solid red;
+}
+.bg-img{
+  height: 280px;
+}

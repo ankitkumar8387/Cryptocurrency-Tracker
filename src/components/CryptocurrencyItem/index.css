@@ -1,0 +1,28 @@
+/* Write your CSS code here */
+.item-container {
+  display: flex;
+  justify-content: space-between;
+}
+.logo {
+  height: 35px;
+  width: 35px;
+  margin-top: 10px;
+}
+.name {
+  color: #ffffff;
+  margin-left: 15px;
+}
+.usd {
+  color: #ffffff;
+  margin-left: 5px;
+}
+.euro {
+  color: #ffffff;
+  margin-left: 10px;
+}
+.part1 {
+  display: flex;
+}
+.part2 {
+  display: flex;
+}
